@@ -56,7 +56,7 @@
           <mxGeometry x="360" y="205" width="170" height="75" as="geometry" />
         </mxCell>
         <mxCell id="lv2" value="机场群评估&#xa;刻画协同承接关系" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5A9A6A;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="360" y="402" width="170" height="75" as="geometry" />
+          <mxGeometry x="360" y="377.5" width="170" height="75" as="geometry" />
         </mxCell>
         <mxCell id="lv3" value="区域综合评价&#xa;支撑场景比较与方案比选" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5A9A6A;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="360" y="610" width="170" height="80" as="geometry" />
