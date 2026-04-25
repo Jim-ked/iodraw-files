@@ -32,7 +32,7 @@
           <mxGeometry x="575" y="65" width="150" height="105" as="geometry" />
         </mxCell>
         <mxCell id="rank" value="机场重要度排序" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="780" y="75" width="160" height="55" as="geometry" />
+          <mxGeometry x="780" y="90" width="160" height="55" as="geometry" />
         </mxCell>
         <mxCell id="initial_group" value="基于组群规模与核心机场&#xa;生成初始组选" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="995" y="70" width="200" height="65" as="geometry" />
