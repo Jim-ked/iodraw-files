@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram id="resilience_metric_system" name="机场顽存能力量化评估与指标体系构建图">
-    <mxGraphModel dx="1216" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,9 +135,6 @@
         </mxCell>
         <mxCell id="e_proc4_proc5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" parent="1" source="proc4" target="proc5" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="note" value="说明：该图用于表达量化评估的对象来源、层级划分、指标维度、评价处理与输出结果之间的关系。" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#CCCCCC;fillColor=#F7F7F7;fontSize=13;align=left;spacingLeft=10;" parent="1" vertex="1">
-          <mxGeometry x="250" y="805" width="900" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
