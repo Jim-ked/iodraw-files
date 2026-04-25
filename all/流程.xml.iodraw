@@ -35,7 +35,7 @@
           <mxGeometry x="780" y="90" width="160" height="55" as="geometry" />
         </mxCell>
         <mxCell id="initial_group" value="基于组群规模与核心机场&#xa;生成初始组选" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="995" y="70" width="200" height="65" as="geometry" />
+          <mxGeometry x="995" y="85" width="200" height="65" as="geometry" />
         </mxCell>
         <mxCell id="feas_check" value="初始组选&#xa;可行性检查" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1020" y="180" width="150" height="95" as="geometry" />
@@ -65,10 +65,10 @@
           <mxGeometry x="1160" y="380" width="190" height="75" as="geometry" />
         </mxCell>
         <mxCell id="cooling" value="温度更新" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="930" y="527" width="150" height="50" as="geometry" />
+          <mxGeometry x="930" y="529" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="stop_sa" value="是否达到&#xa;终止条件？" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="705" y="505" width="150" height="95" as="geometry" />
+          <mxGeometry x="705" y="507.5" width="150" height="95" as="geometry" />
         </mxCell>
         <mxCell id="selected_group" value="筛选后的&#xa;候选组群配置" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="440" y="525" width="190" height="60" as="geometry" />
