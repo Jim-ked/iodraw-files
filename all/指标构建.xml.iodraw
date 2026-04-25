@@ -44,7 +44,7 @@
           <mxGeometry x="90" y="270" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="in3" value="资源保障&#xa;燃油 / 航材 / 航弹" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B8FC8;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="90" y="375" width="170" height="70" as="geometry" />
+          <mxGeometry x="90" y="380" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="in4" value="损毁扰动&#xa;能力下降 / 资源受限 / 时延" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B8FC8;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="90" y="480" width="170" height="70" as="geometry" />
@@ -56,10 +56,10 @@
           <mxGeometry x="360" y="205" width="170" height="75" as="geometry" />
         </mxCell>
         <mxCell id="lv2" value="机场群评估&#xa;刻画协同承接关系" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5A9A6A;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="360" y="372" width="170" height="75" as="geometry" />
+          <mxGeometry x="360" y="402" width="170" height="75" as="geometry" />
         </mxCell>
         <mxCell id="lv3" value="区域综合评价&#xa;支撑场景比较与方案比选" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5A9A6A;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="360" y="525" width="170" height="80" as="geometry" />
+          <mxGeometry x="360" y="610" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dim1" value="任务执行能力&#xa;完成度 / 准时性 / 关键任务满足" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#C49A53;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="630" y="205" width="170" height="75" as="geometry" />
