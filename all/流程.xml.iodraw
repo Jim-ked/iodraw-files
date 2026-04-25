@@ -83,7 +83,7 @@
           <mxGeometry x="1070" y="680" width="230" height="85" as="geometry" />
         </mxCell>
         <mxCell id="post" value="结果解析与指标计算" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="820" width="210" height="60" as="geometry" />
+          <mxGeometry x="1080" y="820" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="best_group" value="最优组群配置" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="820" y="820" width="180" height="60" as="geometry" />
