@@ -65,7 +65,7 @@
           <mxGeometry x="630" y="205" width="170" height="75" as="geometry" />
         </mxCell>
         <mxCell id="dim2" value="资源保障能力&#xa;资源库存 / 消耗代价 / 压力分布" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#C49A53;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="630" y="402" width="170" height="75" as="geometry" />
+          <mxGeometry x="630" y="377.5" width="170" height="75" as="geometry" />
         </mxCell>
         <mxCell id="dim3" value="结构韧性水平&#xa;恢复能力 / 替代能力 / 负载迁移" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#C49A53;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="630" y="610" width="170" height="80" as="geometry" />
@@ -110,7 +110,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e_proc_out" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#555555;strokeWidth=1.5;" parent="1" source="proc3" target="out2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1255" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="e_lv1_lv2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" parent="1" source="lv1" target="lv2" edge="1">
           <mxGeometry relative="1" as="geometry" />
