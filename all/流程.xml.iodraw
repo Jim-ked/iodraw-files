@@ -1,9 +1,144 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
-  <diagram id="clean_sa_mip_flow" name="机场组群布局优化流程图">
-    <mxGraphModel dx="1737" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1050" math="0" shadow="0">
+  <diagram id="resilience_metric_system" name="机场顽存能力量化评估与指标体系构建图">
+    <mxGraphModel dx="1216" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="title" value="机场顽存能力量化评估与指标体系构建图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=24;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="20" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bg1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#A6C8E8;fillColor=#EAF4FF;" parent="1" vertex="1">
+          <mxGeometry x="60" y="90" width="230" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="bg2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#B9D7C2;fillColor=#EEF8F0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="90" width="230" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="bg3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#E3CBA8;fillColor=#FFF6E8;" parent="1" vertex="1">
+          <mxGeometry x="600" y="90" width="230" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="bg4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#C7B7DE;fillColor=#F4EEFB;" parent="1" vertex="1">
+          <mxGeometry x="870" y="90" width="230" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="bg5" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#AFC5E8;fillColor=#EEF4FF;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="90" width="230" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="h1" value="评估输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="95" y="105" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h2" value="评估层级" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="105" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h3" value="指标维度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="635" y="105" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h4" value="评价处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="905" y="105" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h5" value="评价输出" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1175" y="105" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="in1" value="机场能力&#xa;跑道 / 机位 / 机型适配" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B8FC8;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="90" y="165" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="in2" value="任务需求&#xa;任务强度 / 时间窗 / 优先级" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B8FC8;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="90" y="270" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="in3" value="资源保障&#xa;燃油 / 航材 / 航弹" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B8FC8;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="90" y="375" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="in4" value="损毁扰动&#xa;能力下降 / 资源受限 / 时延" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B8FC8;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="90" y="480" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="in5" value="时间窗口&#xa;出动 / 返场 / 恢复过程" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B8FC8;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="90" y="585" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lv1" value="单机场评估&#xa;识别局部能力边界" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5A9A6A;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="360" y="205" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="lv2" value="机场群评估&#xa;刻画协同承接关系" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5A9A6A;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="360" y="365" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="lv3" value="区域综合评价&#xa;支撑场景比较与方案比选" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5A9A6A;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="360" y="525" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dim1" value="任务执行能力&#xa;完成度 / 准时性 / 关键任务满足" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#C49A53;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="630" y="205" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="dim2" value="资源保障能力&#xa;资源库存 / 消耗代价 / 压力分布" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#C49A53;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="630" y="365" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="dim3" value="结构韧性水平&#xa;恢复能力 / 替代能力 / 负载迁移" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#C49A53;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="630" y="525" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="proc1" value="指标归一化&#xa;统一量纲与评价口径" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#8A6EB0;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="900" y="170" width="170" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="proc2" value="权重设置&#xa;一级维度权重 / 二级指标权重" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#8A6EB0;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="900" y="285" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="proc3" value="综合评价&#xa;形成区域保障效能综合值" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#8A6EB0;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="900" y="405" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="proc4" value="场景对比&#xa;基线 / 损毁 / 组选优化" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#8A6EB0;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="900" y="525" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="proc5" value="差异归因&#xa;任务 / 资源 / 结构分解" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#8A6EB0;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="900" y="645" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="out1" value="分维度评价结果" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B7FC8;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="190" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="out2" value="区域保障效能综合值" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B7FC8;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="310" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="out3" value="损毁影响识别" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B7FC8;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="430" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="out4" value="组群增益识别" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B7FC8;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="550" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="out5" value="方案排序与比选依据" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B7FC8;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="670" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_in_lv" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#555555;strokeWidth=1.5;" parent="1" source="in3" target="lv2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_lv_dim" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#555555;strokeWidth=1.5;" parent="1" source="lv2" target="dim2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_dim_proc" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#555555;strokeWidth=1.5;" parent="1" source="dim2" target="proc3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_proc_out" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#555555;strokeWidth=1.5;" parent="1" source="proc3" target="out2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_lv1_lv2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" parent="1" source="lv1" target="lv2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_lv2_lv3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" parent="1" source="lv2" target="lv3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_dim1_dim2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" parent="1" source="dim1" target="dim2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_dim2_dim3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" parent="1" source="dim2" target="dim3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_proc1_proc2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" parent="1" source="proc1" target="proc2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_proc2_proc3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" parent="1" source="proc2" target="proc3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_proc3_proc4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" parent="1" source="proc3" target="proc4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_proc4_proc5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" parent="1" source="proc4" target="proc5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="note" value="说明：该图用于表达量化评估的对象来源、层级划分、指标维度、评价处理与输出结果之间的关系。" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#CCCCCC;fillColor=#F7F7F7;fontSize=13;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="250" y="805" width="900" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
