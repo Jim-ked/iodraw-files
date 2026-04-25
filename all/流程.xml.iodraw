@@ -44,7 +44,7 @@
           <mxGeometry x="1230" y="200" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="initial_solution" value="初始候选组选" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="795" y="215" width="170" height="55" as="geometry" />
+          <mxGeometry x="795" y="200" width="170" height="55" as="geometry" />
         </mxCell>
         <mxCell id="direct_mip" value="不启用组选&#xa;直接进入统一求解" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="330" y="690" width="190" height="65" as="geometry" />
