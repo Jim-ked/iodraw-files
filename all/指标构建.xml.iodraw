@@ -109,9 +109,11 @@
         <mxCell id="e_dim_proc" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#555555;strokeWidth=1.5;" parent="1" source="dim2" target="proc3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_proc_out" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#555555;strokeWidth=1.5;" parent="1" source="proc3" target="out2" edge="1">
+        <mxCell id="e_proc_out" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#555555;strokeWidth=1.5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="proc3" target="out2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1120" y="440" />
+              <mxPoint x="1120" y="410" />
               <mxPoint x="1255" y="410" />
             </Array>
           </mxGeometry>
