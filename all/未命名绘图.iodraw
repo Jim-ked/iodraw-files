@@ -81,8 +81,8 @@
         <mxCell id="sbr8w_J-CJwChNXdjqy2-64" value="装配" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=1.4;fontSize=12;fontColor=#333333;" edge="1" parent="1" source="sbr8w_J-CJwChNXdjqy2-46" target="sbr8w_J-CJwChNXdjqy2-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="282.5" />
-              <mxPoint x="390" y="445" />
+              <mxPoint x="390" y="283" />
+              <mxPoint x="390" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -92,7 +92,7 @@
         <mxCell id="sbr8w_J-CJwChNXdjqy2-66" value="时间窗口径" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#1F6FEB;strokeWidth=2;fontSize=12;fontColor=#333333;" edge="1" parent="1" source="sbr8w_J-CJwChNXdjqy2-48" target="sbr8w_J-CJwChNXdjqy2-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="445" y="445" />
+              <mxPoint x="445" y="450" />
               <mxPoint x="445" y="203" />
             </Array>
           </mxGeometry>
