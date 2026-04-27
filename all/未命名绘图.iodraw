@@ -71,7 +71,13 @@
           <mxGeometry x="935" y="615" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-63" value="装配" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=1.4;fontSize=12;fontColor=#333333;" edge="1" parent="1" source="sbr8w_J-CJwChNXdjqy2-45" target="sbr8w_J-CJwChNXdjqy2-48">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="208" />
+              <mxPoint x="110" y="325" />
+              <mxPoint x="245" y="325" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-64" value="装配" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=1.4;fontSize=12;fontColor=#333333;" edge="1" parent="1" source="sbr8w_J-CJwChNXdjqy2-46" target="sbr8w_J-CJwChNXdjqy2-48">
           <mxGeometry relative="1" as="geometry" />
