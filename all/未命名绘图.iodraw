@@ -23,10 +23,10 @@
           <mxGeometry x="440" y="260" width="320" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-8" value="运行组织与模型计算&#xa;&#xa;组选判断&#xa;路径生成&#xa;模型求解" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1F6FEB;strokeWidth=2;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="440" y="380" width="320" height="90" as="geometry" />
+          <mxGeometry x="440" y="370" width="320" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-9" value="结果整理与图形生成&#xa;&#xa;解结果整理&#xa;指标计算&#xa;图件生成　日志写入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1F6FEB;strokeWidth=2;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="440" y="500" width="320" height="90" as="geometry" />
+          <mxGeometry x="440" y="480" width="320" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-10" value="结果查看与对比分析&#xa;&#xa;单次运行查看&#xa;结果汇总&#xa;场景对比　方案分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1F6FEB;strokeWidth=2;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="440" y="610" width="320" height="90" as="geometry" />
