@@ -1,0 +1,61 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
+  <diagram id="process-flowchart" name="Process Flowchart">
+    <mxGraphModel dx="1216" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="node1_container" value="&lt;ul style=&quot;margin: 0px; padding-left: 20px; font-size: 18px;&quot;&gt;&lt;li&gt;界定任务/资源/韧性内涵&lt;/li&gt;&lt;li&gt;统一数据清洗与标准化&lt;/li&gt;&lt;li&gt;生成特征参数集&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=none;fontColor=#000000;align=center;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="250" y="40" width="410" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="node1_label" value="定义与特征&lt;br style=&quot;font-size: 24px;&quot;&gt;提取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#005A9C;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="108" y="40" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="edge1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#005A9C;strokeWidth=3;" parent="1" source="node1_container" target="node2_container" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="node2_container" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;目标层-准则层-指标层&lt;br&gt;单机场→机场群→区域&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=none;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="250" y="180" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="node2_label" value="指标体系&lt;br style=&quot;font-size: 24px;&quot;&gt;构建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#005A9C;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="108" y="180" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="edge2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#005A9C;strokeWidth=3;" parent="1" source="node2_container" target="node3_container" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="node3_container" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;预存能力演化曲线&lt;br&gt;三维度得分与综合效能&lt;br&gt;生成权重/阈值/惩罚&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=none;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="250" y="300" width="410" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="node3_label" value="量化评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#005A9C;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="108" y="300" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="edge3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#005A9C;strokeWidth=3;" parent="1" source="node3_container" target="node4_container" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="node4_container" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;变量（启用/出动/分配/库存）&lt;br&gt;多约束&lt;br&gt;嵌入曲线与效率/均衡&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=none;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="250" y="440" width="410" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="node4_label" value="要素建模" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#005A9C;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="108" y="440" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="edge4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#005A9C;strokeWidth=3;" parent="1" source="node4_container" target="node5_container" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="node5_container" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;贪心初解 + 模拟退火 + LP/MIP&lt;br&gt;可行性校核与精化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=none;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="250" y="580" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="node5_label" value="分层优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#005A9C;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="108" y="580" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="edge5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#005A9C;strokeWidth=3;" parent="1" source="node5_container" target="node6_container" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="node6_container" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;最优机场群与任务调度&lt;br&gt;指标与阈值满足报告&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=none;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="250" y="700" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="node6_label" value="输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#005A9C;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="108" y="700" width="140" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
