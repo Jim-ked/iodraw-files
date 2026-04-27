@@ -62,10 +62,10 @@
           <mxGeometry x="320" y="555" width="110" height="75" as="geometry" />
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-102" value="执行组选评价&#xa;可选" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4D4D4D;strokeWidth=1.8;dashed=1;dashPattern=6 4;align=center;verticalAlign=middle;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="530" width="150" height="55" as="geometry" />
+          <mxGeometry x="490" y="550" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-103" value="生成可行路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1F6FEB;strokeWidth=2;align=center;verticalAlign=middle;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="630" width="150" height="55" as="geometry" />
+          <mxGeometry x="480" y="650" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-104" value="建立优化模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1F6FEB;strokeWidth=2;align=center;verticalAlign=middle;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="630" width="150" height="55" as="geometry" />
