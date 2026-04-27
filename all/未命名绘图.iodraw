@@ -105,7 +105,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-69" value="权重与控制" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=1.6;dashed=1;dashPattern=6 4;fontSize=12;fontColor=#333333;" edge="1" parent="1" source="sbr8w_J-CJwChNXdjqy2-50" target="sbr8w_J-CJwChNXdjqy2-54">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="625" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#1F6FEB;strokeWidth=2;" edge="1" parent="1" source="sbr8w_J-CJwChNXdjqy2-51" target="sbr8w_J-CJwChNXdjqy2-53">
           <mxGeometry relative="1" as="geometry">
