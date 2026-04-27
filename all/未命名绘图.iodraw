@@ -113,10 +113,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-119" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=1.6;dashed=1;dashPattern=6 4;fontSize=12;" edge="1" parent="1" source="sbr8w_J-CJwChNXdjqy2-101" target="sbr8w_J-CJwChNXdjqy2-102">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="593" />
+              <mxPoint x="460" y="570" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-120" value="否 / 完成组选" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#1F6FEB;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="sbr8w_J-CJwChNXdjqy2-101" target="sbr8w_J-CJwChNXdjqy2-103">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=1.6;dashed=1;dashPattern=6 4;" edge="1" parent="1" source="sbr8w_J-CJwChNXdjqy2-102" target="sbr8w_J-CJwChNXdjqy2-103">
           <mxGeometry relative="1" as="geometry" />
