@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sbr8w_J-CJwChNXdjqy2-1" value="图1  系统总体运行链路图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;fontColor=#1F1F1F;" vertex="1" parent="1">
-          <mxGeometry x="360" y="30" width="480" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B7B7B7;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="1120" height="690" as="geometry" />
         </mxCell>
