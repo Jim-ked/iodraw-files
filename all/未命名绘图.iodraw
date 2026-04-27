@@ -172,8 +172,8 @@
         <mxCell id="sbr8w_J-CJwChNXdjqy2-130" value="状态回传" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=1.6;dashed=1;dashPattern=6 4;fontSize=12;" edge="1" parent="1" source="sbr8w_J-CJwChNXdjqy2-98" target="sbr8w_J-CJwChNXdjqy2-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="765" y="323" />
-              <mxPoint x="770" y="323" />
+              <mxPoint x="765" y="270" />
+              <mxPoint x="765" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
