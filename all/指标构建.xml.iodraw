@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="机场顽存能力量化评估与指标体系构建图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=24;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="20" width="680" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="bg1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#A6C8E8;fillColor=#EAF4FF;" parent="1" vertex="1">
           <mxGeometry x="60" y="90" width="230" height="680" as="geometry" />
         </mxCell>
