@@ -16,6 +16,9 @@
         <mxCell id="sbr8w_J-CJwChNXdjqy2-86" value="模型求解与结果处理" style="swimlane;html=1;horizontal=1;startSize=38;fillColor=#F4F7FA;strokeColor=#7F7F7F;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="70" y="505" width="1040" height="250" as="geometry" />
         </mxCell>
+        <mxCell id="sbr8w_J-CJwChNXdjqy2-104" value="建立优化模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1F6FEB;strokeWidth=2;align=center;verticalAlign=middle;fontSize=14;fontStyle=1;" vertex="1" parent="sbr8w_J-CJwChNXdjqy2-86">
+          <mxGeometry x="620" y="145" width="150" height="55" as="geometry" />
+        </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-87" value="运行产物&#xa;&#xa;status.json&#xa;run.log&#xa;solution_*.json&#xa;cluster_report.json&#xa;metrics.json&#xa;图形文件&#xa;results/index.json" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEF4FF;strokeColor=#1F6FEB;strokeWidth=2;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="1140" y="235" width="190" height="360" as="geometry" />
         </mxCell>
@@ -66,9 +69,6 @@
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-103" value="生成可行路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1F6FEB;strokeWidth=2;align=center;verticalAlign=middle;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="650" width="150" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="sbr8w_J-CJwChNXdjqy2-104" value="建立优化模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1F6FEB;strokeWidth=2;align=center;verticalAlign=middle;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="630" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-105" value="调用求解器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1F6FEB;strokeWidth=2;align=center;verticalAlign=middle;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="630" width="145" height="55" as="geometry" />
@@ -121,10 +121,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-120" value="否 / 完成组选" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#1F6FEB;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="sbr8w_J-CJwChNXdjqy2-101" target="sbr8w_J-CJwChNXdjqy2-103">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.1868" y="-5" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="555" y="630" />
             </Array>
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sbr8w_J-CJwChNXdjqy2-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=1.6;dashed=1;dashPattern=6 4;" edge="1" parent="1" source="sbr8w_J-CJwChNXdjqy2-102" target="sbr8w_J-CJwChNXdjqy2-103">
