@@ -10,9 +10,6 @@
         <mxCell id="Ng5GEXHH1PSF-Tm_ydII-19" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#1F4E79;fillColor=#1F4E79;gradientColor=#4472C4;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="140" y="70" width="720" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="Ng5GEXHH1PSF-Tm_ydII-20" value="图1 研究总体关系图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="210" y="82" width="580" height="32" as="geometry" />
-        </mxCell>
         <mxCell id="Ng5GEXHH1PSF-Tm_ydII-21" value="空域信息统一表达  →  飞行程序适配设计  →  单双跑道协同运行  →  仿真推演验证" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=13;fontColor=#EAF2F8;" vertex="1" parent="1">
           <mxGeometry x="180" y="116" width="640" height="28" as="geometry" />
         </mxCell>
