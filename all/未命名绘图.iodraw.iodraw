@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ng5GEXHH1PSF-Tm_ydII-1" value="图1 研究总体关系图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=20;fontStyle=1;fontColor=#1F1F1F;" vertex="1" parent="1">
-          <mxGeometry x="560" y="20" width="480" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Ng5GEXHH1PSF-Tm_ydII-2" value="空域信息统一表达 → 飞行程序适配设计 → 单双跑道协同运行 → 仿真推演验证" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#B3B3B3;fillColor=#F5F5F5;align=center;verticalAlign=middle;fontSize=13;fontColor=#444444;" vertex="1" parent="1">
           <mxGeometry x="340" y="70" width="920" height="40" as="geometry" />
         </mxCell>
