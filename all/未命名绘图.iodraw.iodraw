@@ -278,7 +278,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ng5GEXHH1PSF-Tm_ydII-154" value="图形工作站支撑&lt;br&gt;三维显示与并行推演" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;align=left;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1120" width="130" height="50" as="geometry" />
+          <mxGeometry x="690" y="1060" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Ng5GEXHH1PSF-Tm_ydII-155" style="edgeStyle=none;rounded=0;html=1;dashed=1;endArrow=none;strokeColor=#d6b656;" edge="1" parent="1" source="Ng5GEXHH1PSF-Tm_ydII-154" target="Ng5GEXHH1PSF-Tm_ydII-145">
           <mxGeometry relative="1" as="geometry" />
