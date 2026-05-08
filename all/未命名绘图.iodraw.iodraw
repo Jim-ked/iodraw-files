@@ -13,7 +13,7 @@
         <mxCell id="Ng5GEXHH1PSF-Tm_ydII-76" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=none;fontSize=14;" vertex="1" parent="Ng5GEXHH1PSF-Tm_ydII-75">
           <mxGeometry x="20" y="40" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Ng5GEXHH1PSF-Tm_ydII-77" value="GeoSOT-3D网格化建模" style="text;html=1;fontSize=14;fontStyle=1;fontColor=#666666;align=center;" vertex="1" parent="Ng5GEXHH1PSF-Tm_ydII-75">
+        <mxCell id="Ng5GEXHH1PSF-Tm_ydII-77" value="空间网格系统建模" style="text;html=1;fontSize=14;fontStyle=1;fontColor=#666666;align=center;" vertex="1" parent="Ng5GEXHH1PSF-Tm_ydII-75">
           <mxGeometry x="15" y="40" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ng5GEXHH1PSF-Tm_ydII-78" value="变粒度网格剖分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="Ng5GEXHH1PSF-Tm_ydII-75">
