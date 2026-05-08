@@ -134,7 +134,7 @@
           <mxGeometry x="590" y="82" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ng5GEXHH1PSF-Tm_ydII-113" value="程序成果输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#d6b656;fontSize=14;writingMode=tb;" vertex="1" parent="Ng5GEXHH1PSF-Tm_ydII-93">
-          <mxGeometry x="630" y="70" width="30" height="70" as="geometry" />
+          <mxGeometry x="630" y="83" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ng5GEXHH1PSF-Tm_ydII-114" value="基于飞行安全间隔的单双跑道运行模式研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FFD966;fontColor=#FF0000;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=10;arcSize=10;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-260" y="1277" width="720" height="220" as="geometry" />
@@ -278,7 +278,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ng5GEXHH1PSF-Tm_ydII-154" value="图形工作站支撑&lt;br&gt;三维显示与并行推演" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;align=left;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1122" width="130" height="50" as="geometry" />
+          <mxGeometry x="710" y="1119" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ng5GEXHH1PSF-Tm_ydII-155" style="edgeStyle=none;rounded=0;html=1;dashed=1;endArrow=none;strokeColor=#d6b656;" edge="1" parent="1" source="Ng5GEXHH1PSF-Tm_ydII-154" target="Ng5GEXHH1PSF-Tm_ydII-145">
           <mxGeometry relative="1" as="geometry" />
