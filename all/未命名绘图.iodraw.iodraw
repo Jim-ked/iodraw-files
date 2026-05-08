@@ -8,10 +8,7 @@
           <mxGeometry x="-320" y="620" width="820" height="1360" as="geometry" />
         </mxCell>
         <mxCell id="Ng5GEXHH1PSF-Tm_ydII-47" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#1F4E79;fillColor=#1F4E79;gradientColor=#4472C4;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="650" width="720" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="Ng5GEXHH1PSF-Tm_ydII-48" value="图1 研究总体关系图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="662" width="560" height="32" as="geometry" />
+          <mxGeometry x="-270" y="680" width="720" height="56" as="geometry" />
         </mxCell>
         <mxCell id="Ng5GEXHH1PSF-Tm_ydII-49" value="空域信息统一表达 → 飞行程序适配设计 → 单双跑道运行模式评估 → 仿真推演验证" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=13;fontColor=#EAF2F8;" vertex="1" parent="1">
           <mxGeometry x="-230" y="696" width="640" height="28" as="geometry" />
