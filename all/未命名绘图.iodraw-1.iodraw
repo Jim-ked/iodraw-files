@@ -13,12 +13,6 @@
         <mxCell id="9xUlv0KkN9yQQe-EX7sv-3" value="&lt;font style=&quot;font-size:18px;color:#FFFFFF;font-weight:bold;&quot;&gt;机场群顽存能力&lt;br/&gt;模拟仿真验证系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#2459C3;strokeColor=#2459C3;strokeWidth=1.5;fontColor=#FFFFFF;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="385" y="255" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9xUlv0KkN9yQQe-EX7sv-6" value="" style="shape=line;strokeColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="498" y="290" width="34" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="9xUlv0KkN9yQQe-EX7sv-7" value="" style="shape=line;strokeColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="508" y="280" width="14" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="9xUlv0KkN9yQQe-EX7sv-8" value="&lt;font style=&quot;font-size:16px;font-weight:bold;color:#2459C3;&quot;&gt;损毁情境&lt;/font&gt;&lt;br/&gt;&lt;font style=&quot;font-size:11px;&quot;&gt;损毁类型 / 作用时段 / 影响强度 / 恢复设定&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F7FAFF;strokeColor=#4F87E6;strokeWidth=1.2;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="345" y="150" width="250" height="70" as="geometry" />
         </mxCell>
