@@ -74,7 +74,7 @@
           <mxGeometry x="900" y="265" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9xUlv0KkN9yQQe-EX7sv-45" value="综合评价&#xa;形成区域保障效能综合值" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#8A6EB0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="900" y="385" width="170" height="70" as="geometry" />
+          <mxGeometry x="905" y="360" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9xUlv0KkN9yQQe-EX7sv-46" value="场景对比&#xa;基线 / 损毁 / 组选优化" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#8A6EB0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="900" y="505" width="170" height="70" as="geometry" />
