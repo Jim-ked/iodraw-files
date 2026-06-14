@@ -74,7 +74,7 @@
           <mxGeometry x="900" y="265" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9xUlv0KkN9yQQe-EX7sv-45" value="综合评价&#xa;形成区域保障效能综合值" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#8A6EB0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="905" y="360" width="170" height="70" as="geometry" />
+          <mxGeometry x="900" y="360" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9xUlv0KkN9yQQe-EX7sv-46" value="场景对比&#xa;基线 / 损毁 / 组选优化" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#8A6EB0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="900" y="505" width="170" height="70" as="geometry" />
@@ -109,8 +109,7 @@
         <mxCell id="9xUlv0KkN9yQQe-EX7sv-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#555555;strokeWidth=1.5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9xUlv0KkN9yQQe-EX7sv-45" target="9xUlv0KkN9yQQe-EX7sv-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1120" y="420" />
-              <mxPoint x="1120" y="390" />
+              <mxPoint x="1075" y="390" />
               <mxPoint x="1255" y="390" />
             </Array>
           </mxGeometry>
