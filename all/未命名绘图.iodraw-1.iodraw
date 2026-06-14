@@ -4,6 +4,141 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-22" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#A6C8E8;fillColor=#EAF4FF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="230" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-23" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#B9D7C2;fillColor=#EEF8F0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="230" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-24" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#E3CBA8;fillColor=#FFF6E8;" vertex="1" parent="1">
+          <mxGeometry x="600" y="90" width="230" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-25" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#C7B7DE;fillColor=#F4EEFB;" vertex="1" parent="1">
+          <mxGeometry x="870" y="90" width="230" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#AFC5E8;fillColor=#EEF4FF;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="90" width="230" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-27" value="评估输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="105" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-28" value="评估层级" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="105" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-29" value="指标维度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="105" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-30" value="评价处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="105" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-31" value="评价输出" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="105" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-32" value="机场能力&#xa;跑道 / 机位 / 机型适配" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B8FC8;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="165" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-33" value="任务需求&#xa;任务强度 / 时间窗 / 优先级" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B8FC8;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="270" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-34" value="资源保障&#xa;燃油 / 航材 / 航弹" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B8FC8;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="380" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-35" value="损毁扰动&#xa;能力下降 / 资源受限 / 时延" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B8FC8;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="480" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-36" value="时间窗口&#xa;出动 / 返场 / 恢复过程" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B8FC8;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="585" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-37" value="单机场评估&#xa;识别局部能力边界" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5A9A6A;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="205" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-38" value="机场群评估&#xa;刻画协同承接关系" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5A9A6A;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="377.5" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-39" value="区域综合评价&#xa;支撑场景比较与方案比选" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5A9A6A;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="610" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-40" value="任务执行能力&#xa;完成度 / 准时性 / 关键任务满足" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#C49A53;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="630" y="205" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-41" value="资源保障能力&#xa;资源库存 / 消耗代价 / 压力分布" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#C49A53;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="630" y="377.5" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-42" value="结构韧性水平&#xa;恢复能力 / 替代能力 / 负载迁移" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#C49A53;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="630" y="610" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-43" value="指标归一化&#xa;统一量纲与评价口径" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#8A6EB0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="900" y="170" width="170" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-44" value="权重设置&#xa;一级维度权重 / 二级指标权重" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#8A6EB0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="900" y="285" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-45" value="综合评价&#xa;形成区域保障效能综合值" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#8A6EB0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="900" y="405" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-46" value="场景对比&#xa;基线 / 损毁 / 组选优化" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#8A6EB0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="900" y="525" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-47" value="差异归因&#xa;任务 / 资源 / 结构分解" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#8A6EB0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="900" y="645" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-48" value="分维度评价结果" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B7FC8;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="190" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-49" value="区域保障效能综合值" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B7FC8;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="310" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-50" value="损毁影响识别" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B7FC8;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="430" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-51" value="组群增益识别" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B7FC8;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="550" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-52" value="方案排序与比选依据" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#5B7FC8;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="670" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#555555;strokeWidth=1.5;" edge="1" parent="1" source="9xUlv0KkN9yQQe-EX7sv-34" target="9xUlv0KkN9yQQe-EX7sv-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#555555;strokeWidth=1.5;" edge="1" parent="1" source="9xUlv0KkN9yQQe-EX7sv-38" target="9xUlv0KkN9yQQe-EX7sv-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#555555;strokeWidth=1.5;" edge="1" parent="1" source="9xUlv0KkN9yQQe-EX7sv-41" target="9xUlv0KkN9yQQe-EX7sv-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#555555;strokeWidth=1.5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9xUlv0KkN9yQQe-EX7sv-45" target="9xUlv0KkN9yQQe-EX7sv-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="440" />
+              <mxPoint x="1120" y="410" />
+              <mxPoint x="1255" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" edge="1" parent="1" source="9xUlv0KkN9yQQe-EX7sv-37" target="9xUlv0KkN9yQQe-EX7sv-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" edge="1" parent="1" source="9xUlv0KkN9yQQe-EX7sv-38" target="9xUlv0KkN9yQQe-EX7sv-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" edge="1" parent="1" source="9xUlv0KkN9yQQe-EX7sv-40" target="9xUlv0KkN9yQQe-EX7sv-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" edge="1" parent="1" source="9xUlv0KkN9yQQe-EX7sv-41" target="9xUlv0KkN9yQQe-EX7sv-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" edge="1" parent="1" source="9xUlv0KkN9yQQe-EX7sv-43" target="9xUlv0KkN9yQQe-EX7sv-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" edge="1" parent="1" source="9xUlv0KkN9yQQe-EX7sv-44" target="9xUlv0KkN9yQQe-EX7sv-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" edge="1" parent="1" source="9xUlv0KkN9yQQe-EX7sv-45" target="9xUlv0KkN9yQQe-EX7sv-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xUlv0KkN9yQQe-EX7sv-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#777777;" edge="1" parent="1" source="9xUlv0KkN9yQQe-EX7sv-46" target="9xUlv0KkN9yQQe-EX7sv-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
