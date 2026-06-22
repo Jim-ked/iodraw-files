@@ -58,7 +58,7 @@
         <mxCell id="yBQVF43ahswneeR6fSq2-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4E88B5;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-126" target="yBQVF43ahswneeR6fSq2-134">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4E88B5;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-126" target="yBQVF43ahswneeR6fSq2-136">
+        <mxCell id="yBQVF43ahswneeR6fSq2-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4E88B5;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-126" target="yBQVF43ahswneeR6fSq2-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-138" value="资源保障效能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B57A3D;strokeColor=#B57A3D;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=16;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
@@ -543,22 +543,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-188" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="591.6666666666666" y="2008" width="390" height="320" as="geometry" />
+          <mxGeometry x="870" y="2008" width="221.67" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-128" value="出动架次达成率" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4E88B5;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-188">
-          <mxGeometry width="390" height="56" as="geometry" />
+          <mxGeometry width="221.67" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-130" value="加权任务完成率" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4E88B5;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-188">
-          <mxGeometry y="66" width="390" height="56" as="geometry" />
+          <mxGeometry y="66" width="221.67" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-132" value="准时执行率" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4E88B5;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-188">
-          <mxGeometry y="132" width="390" height="56" as="geometry" />
+          <mxGeometry y="132" width="221.67" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-134" value="加权平均任务延误" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4E88B5;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-188">
-          <mxGeometry y="198" width="390" height="56" as="geometry" />
+          <mxGeometry y="198" width="221.67" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-136" value="任务执行恢复时间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4E88B5;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-188">
-          <mxGeometry y="264" width="390" height="56" as="geometry" />
+          <mxGeometry y="264" width="221.67" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
