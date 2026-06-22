@@ -58,10 +58,10 @@
         <mxCell id="yBQVF43ahswneeR6fSq2-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B57A3D;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-138" target="yBQVF43ahswneeR6fSq2-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B57A3D;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-138" target="yBQVF43ahswneeR6fSq2-146">
+        <mxCell id="yBQVF43ahswneeR6fSq2-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B57A3D;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-138" target="yBQVF43ahswneeR6fSq2-146">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B57A3D;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-138" target="yBQVF43ahswneeR6fSq2-148">
+        <mxCell id="yBQVF43ahswneeR6fSq2-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B57A3D;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-138" target="yBQVF43ahswneeR6fSq2-148">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-150" value="节点网络协同" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#648E62;strokeColor=#648E62;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=16;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
@@ -549,22 +549,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-190" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1805" y="2008" width="390" height="320" as="geometry" />
+          <mxGeometry x="2040" y="2008" width="190" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-140" value="关键资源需求满足率" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B57A3D;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-190">
-          <mxGeometry width="390" height="56" as="geometry" />
+          <mxGeometry width="190" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-142" value="资源保障及时率" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B57A3D;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-190">
-          <mxGeometry y="66" width="390" height="56" as="geometry" />
+          <mxGeometry y="66" width="190" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-144" value="最短资源持续保障时间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B57A3D;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-190">
-          <mxGeometry y="132" width="390" height="56" as="geometry" />
+          <mxGeometry y="132" width="190" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-146" value="单位有效任务资源消耗" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B57A3D;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-190">
-          <mxGeometry y="198" width="390" height="56" as="geometry" />
+          <mxGeometry y="198" width="190" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-148" value="外部资源支援依赖度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B57A3D;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-190">
-          <mxGeometry y="264" width="390" height="56" as="geometry" />
+          <mxGeometry y="264" width="190" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
