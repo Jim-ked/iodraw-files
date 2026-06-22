@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-82" value="机场群保障能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C7445D;strokeColor=#C7445D;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=19;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="1850" y="1080" width="300" height="68" as="geometry" />
+          <mxGeometry x="1850" y="1072" width="300" height="68" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#5B8DB8;strokeWidth=1.2;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-82" target="yBQVF43ahswneeR6fSq2-83">
           <mxGeometry relative="1" as="geometry" />
@@ -314,7 +314,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-179" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1230" y="1235" width="395" height="313" as="geometry" />
+          <mxGeometry x="1230" y="1227" width="395" height="313" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-83" value="任务需求适配能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B8DB8;strokeColor=#5B8DB8;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=16;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-179">
           <mxGeometry width="220" height="76" as="geometry" />
@@ -322,7 +322,7 @@
         <mxCell id="yBQVF43ahswneeR6fSq2-178" value="" style="group" vertex="1" connectable="0" parent="yBQVF43ahswneeR6fSq2-179">
           <mxGeometry x="185" y="125" width="210" height="188" as="geometry" />
         </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-85" value="机场—机型保障适配" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#5B8DB8;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-178">
+        <mxCell id="yBQVF43ahswneeR6fSq2-85" value="机场—机型保障适配关系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#5B8DB8;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-178">
           <mxGeometry width="210" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-87" value="机场—任务保障可行关系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#5B8DB8;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-178">
@@ -341,7 +341,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-182" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2068" y="1235" width="405" height="313" as="geometry" />
+          <mxGeometry x="2068" y="1227" width="405" height="313" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-105" value="时序持续保障能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B27642;strokeColor=#B27642;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=16;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-182">
           <mxGeometry width="220" height="76" as="geometry" />
@@ -368,7 +368,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-183" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1630" y="1235" width="425" height="501" as="geometry" />
+          <mxGeometry x="1630" y="1227" width="425" height="501" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-91" value="节点保障约束能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#418E9B;strokeColor=#418E9B;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=16;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-183">
           <mxGeometry width="220" height="76" as="geometry" />
@@ -413,7 +413,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-186" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2490" y="1235" width="465" height="445" as="geometry" />
+          <mxGeometry x="2490" y="1227" width="465" height="445" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-113" value="群内协同调配能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6E9C5D;strokeColor=#6E9C5D;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=16;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-186">
           <mxGeometry width="220" height="76" as="geometry" />
