@@ -25,19 +25,7 @@
         <mxCell id="yBQVF43ahswneeR6fSq2-82" value="机场群保障能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C7445D;strokeColor=#C7445D;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=19;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
           <mxGeometry x="1850" y="1080" width="300" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-83" value="任务需求适配能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B8DB8;strokeColor=#5B8DB8;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=16;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="525" y="1235" width="220" height="76" as="geometry" />
-        </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#5B8DB8;strokeWidth=1.2;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-82" target="yBQVF43ahswneeR6fSq2-83">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#5B8DB8;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-83" target="yBQVF43ahswneeR6fSq2-85">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#5B8DB8;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-83" target="yBQVF43ahswneeR6fSq2-87">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#5B8DB8;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-83" target="yBQVF43ahswneeR6fSq2-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-91" value="节点保障约束能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#418E9B;strokeColor=#418E9B;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=16;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
@@ -46,40 +34,22 @@
         <mxCell id="yBQVF43ahswneeR6fSq2-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#418E9B;strokeWidth=1.2;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-82" target="yBQVF43ahswneeR6fSq2-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-93" value="单时间窗最大起降架次" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#418E9B;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="1338" width="390" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#418E9B;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-91" target="yBQVF43ahswneeR6fSq2-93">
+        <mxCell id="yBQVF43ahswneeR6fSq2-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#418E9B;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-91" target="yBQVF43ahswneeR6fSq2-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-95" value="地面综合保障并行架数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#418E9B;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="1404" width="390" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#418E9B;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-91" target="yBQVF43ahswneeR6fSq2-95">
+        <mxCell id="yBQVF43ahswneeR6fSq2-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#418E9B;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-91" target="yBQVF43ahswneeR6fSq2-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-97" value="分机型机务并行保障架数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#418E9B;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="1470" width="390" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#418E9B;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-91" target="yBQVF43ahswneeR6fSq2-97">
+        <mxCell id="yBQVF43ahswneeR6fSq2-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#418E9B;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-91" target="yBQVF43ahswneeR6fSq2-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-99" value="飞行组织可保障架次" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#418E9B;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="1536" width="390" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#418E9B;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-91" target="yBQVF43ahswneeR6fSq2-99">
+        <mxCell id="yBQVF43ahswneeR6fSq2-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#418E9B;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-91" target="yBQVF43ahswneeR6fSq2-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-101" value="分资源可支持出动架次" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#418E9B;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="1602" width="390" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#418E9B;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-91" target="yBQVF43ahswneeR6fSq2-101">
+        <mxCell id="yBQVF43ahswneeR6fSq2-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#418E9B;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-91" target="yBQVF43ahswneeR6fSq2-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-103" value="分机型保障周转时间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#418E9B;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="1668" width="390" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#418E9B;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-91" target="yBQVF43ahswneeR6fSq2-103">
+        <mxCell id="yBQVF43ahswneeR6fSq2-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#418E9B;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-91" target="yBQVF43ahswneeR6fSq2-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-105" value="时序持续保障能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B27642;strokeColor=#B27642;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=16;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
@@ -88,20 +58,11 @@
         <mxCell id="yBQVF43ahswneeR6fSq2-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B27642;strokeWidth=1.2;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-82" target="yBQVF43ahswneeR6fSq2-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-107" value="分资源持续保障时长" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B27642;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="2260" y="1338" width="390" height="56" as="geometry" />
-        </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B27642;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-105" target="yBQVF43ahswneeR6fSq2-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-109" value="连续可保障时间窗数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B27642;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="2260" y="1404" width="390" height="56" as="geometry" />
-        </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B27642;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-105" target="yBQVF43ahswneeR6fSq2-109">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-111" value="滚动窗口保障余量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B27642;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="2260" y="1470" width="390" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B27642;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-105" target="yBQVF43ahswneeR6fSq2-111">
           <mxGeometry relative="1" as="geometry" />
@@ -524,17 +485,65 @@
         <mxCell id="yBQVF43ahswneeR6fSq2-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#83A94D;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yBQVF43ahswneeR6fSq2-176" source="yBQVF43ahswneeR6fSq2-74" target="yBQVF43ahswneeR6fSq2-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-178" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="440" y="1338" width="390" height="188" as="geometry" />
+        <mxCell id="yBQVF43ahswneeR6fSq2-179" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="525" y="1235" width="395" height="313" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-83" value="任务需求适配能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B8DB8;strokeColor=#5B8DB8;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=16;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-179">
+          <mxGeometry width="220" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-178" value="" style="group" vertex="1" connectable="0" parent="yBQVF43ahswneeR6fSq2-179">
+          <mxGeometry x="185" y="125" width="210" height="188" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-85" value="机场—机型保障适配关系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#5B8DB8;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-178">
-          <mxGeometry width="390" height="56" as="geometry" />
+          <mxGeometry width="210" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-87" value="机场—任务保障可行关系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#5B8DB8;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-178">
-          <mxGeometry y="66" width="390" height="56" as="geometry" />
+          <mxGeometry y="66" width="210" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-89" value="分机型任务需求可保障量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#5B8DB8;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-178">
-          <mxGeometry y="132" width="390" height="56" as="geometry" />
+          <mxGeometry y="132" width="210" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#5B8DB8;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yBQVF43ahswneeR6fSq2-179" source="yBQVF43ahswneeR6fSq2-83" target="yBQVF43ahswneeR6fSq2-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#5B8DB8;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yBQVF43ahswneeR6fSq2-179" source="yBQVF43ahswneeR6fSq2-83" target="yBQVF43ahswneeR6fSq2-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#5B8DB8;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yBQVF43ahswneeR6fSq2-179" source="yBQVF43ahswneeR6fSq2-83" target="yBQVF43ahswneeR6fSq2-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-180" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1620" y="1350" width="240" height="386" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-93" value="单时间窗最大起降架次" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#418E9B;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-180">
+          <mxGeometry width="240" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-95" value="地面综合保障并行架数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#418E9B;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-180">
+          <mxGeometry y="66" width="240" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-97" value="分机型机务并行保障架数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#418E9B;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-180">
+          <mxGeometry y="132" width="240" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-99" value="飞行组织可保障架次" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#418E9B;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-180">
+          <mxGeometry y="198" width="240" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-101" value="分资源可支持出动架次" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#418E9B;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-180">
+          <mxGeometry y="264" width="240" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-103" value="分机型保障周转时间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#418E9B;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-180">
+          <mxGeometry y="330" width="240" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-181" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2420" y="1338" width="230" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-107" value="分资源持续保障时长" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B27642;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-181">
+          <mxGeometry width="230" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-109" value="连续可保障时间窗数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B27642;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-181">
+          <mxGeometry y="66" width="230" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-111" value="滚动窗口保障余量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B27642;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-181">
+          <mxGeometry y="132" width="230" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
