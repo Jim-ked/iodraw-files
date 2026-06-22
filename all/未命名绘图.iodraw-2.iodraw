@@ -424,7 +424,7 @@
         <mxCell id="yBQVF43ahswneeR6fSq2-115" value="任务转移可承接量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9C5D;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-184">
           <mxGeometry width="270" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-117" value="物资可调拨保障量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9C5D;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-184">
+        <mxCell id="yBQVF43ahswneeR6fSq2-117" value="物资调拨可保障量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9C5D;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-184">
           <mxGeometry y="66" width="270" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-119" value="装备和机务支援可保障量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9C5D;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-184">
