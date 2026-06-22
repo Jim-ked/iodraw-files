@@ -492,31 +492,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-168" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1805" y="365" width="390" height="546" as="geometry" />
+          <mxGeometry x="1980" y="365" width="215" height="546" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-42" value="电源车规格及数量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2F8FB3;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-168">
-          <mxGeometry width="390" height="56" as="geometry" />
+          <mxGeometry width="215" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-44" value="空调车规格及数量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2F8FB3;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-168">
-          <mxGeometry y="70" width="390" height="56" as="geometry" />
+          <mxGeometry y="70" width="215" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-46" value="加油车规格及数量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2F8FB3;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-168">
-          <mxGeometry y="140" width="390" height="56" as="geometry" />
+          <mxGeometry y="140" width="215" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-48" value="充氧车规格及数量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2F8FB3;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-168">
-          <mxGeometry y="210" width="390" height="56" as="geometry" />
+          <mxGeometry y="210" width="215" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-50" value="充氮车规格及数量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2F8FB3;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-168">
-          <mxGeometry y="280" width="390" height="56" as="geometry" />
+          <mxGeometry y="280" width="215" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-52" value="牵引车规格及数量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2F8FB3;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-168">
-          <mxGeometry y="350" width="390" height="56" as="geometry" />
+          <mxGeometry y="350" width="215" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-54" value="挂弹车规格及数量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2F8FB3;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-168">
-          <mxGeometry y="420" width="390" height="56" as="geometry" />
+          <mxGeometry y="420" width="215" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-56" value="运输车规格及数量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2F8FB3;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-168">
-          <mxGeometry y="490" width="390" height="56" as="geometry" />
+          <mxGeometry y="490" width="215" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
