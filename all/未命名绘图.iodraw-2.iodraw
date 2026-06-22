@@ -420,7 +420,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-179" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="525" y="1235" width="395" height="313" as="geometry" />
+          <mxGeometry x="1230" y="1235" width="395" height="313" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-83" value="任务需求适配能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B8DB8;strokeColor=#5B8DB8;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=16;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-179">
           <mxGeometry width="220" height="76" as="geometry" />
@@ -519,7 +519,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-186" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3255" y="1235" width="465" height="445" as="geometry" />
+          <mxGeometry x="2490" y="1235" width="465" height="445" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-113" value="群内协同调配能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6E9C5D;strokeColor=#6E9C5D;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=16;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-186">
           <mxGeometry width="220" height="76" as="geometry" />
