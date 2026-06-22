@@ -52,7 +52,7 @@
         <mxCell id="yBQVF43ahswneeR6fSq2-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6E9C5D;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-113" target="yBQVF43ahswneeR6fSq2-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6E9C5D;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-113" target="yBQVF43ahswneeR6fSq2-123">
+        <mxCell id="yBQVF43ahswneeR6fSq2-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6E9C5D;strokeWidth=1.0;endArrow=none;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBQVF43ahswneeR6fSq2-113" target="yBQVF43ahswneeR6fSq2-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-125" value="区域顽存能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C7445D;strokeColor=#C7445D;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=19;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
@@ -537,7 +537,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-184" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3290" y="1338" width="270" height="320" as="geometry" />
+          <mxGeometry x="3450" y="1360" width="270" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-115" value="任务转移可承接量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9C5D;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-184">
           <mxGeometry width="270" height="56" as="geometry" />
@@ -553,9 +553,6 @@
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-123" value="关键任务备用机场数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9C5D;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-184">
           <mxGeometry y="264" width="270" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="yBQVF43ahswneeR6fSq2-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="yBQVF43ahswneeR6fSq2-184" source="yBQVF43ahswneeR6fSq2-119" target="yBQVF43ahswneeR6fSq2-119">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
