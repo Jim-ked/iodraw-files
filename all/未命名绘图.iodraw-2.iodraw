@@ -447,7 +447,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-182" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2345" y="1235" width="405" height="313" as="geometry" />
+          <mxGeometry x="2068" y="1235" width="405" height="313" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-105" value="时序持续保障能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B27642;strokeColor=#B27642;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=16;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-182">
           <mxGeometry width="220" height="76" as="geometry" />
@@ -475,6 +475,11 @@
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-183" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1435" y="1235" width="425" height="501" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="yBQVF43ahswneeR6fSq2-183" source="yBQVF43ahswneeR6fSq2-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="15" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-91" value="节点保障约束能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#418E9B;strokeColor=#418E9B;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=16;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-183">
           <mxGeometry width="220" height="76" as="geometry" />
