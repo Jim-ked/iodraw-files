@@ -537,22 +537,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-184" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3170" y="1338" width="390" height="320" as="geometry" />
+          <mxGeometry x="3290" y="1338" width="270" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-115" value="任务转移可承接量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9C5D;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-184">
-          <mxGeometry width="390" height="56" as="geometry" />
+          <mxGeometry width="270" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-117" value="物资调拨可保障量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9C5D;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-184">
-          <mxGeometry y="66" width="390" height="56" as="geometry" />
+          <mxGeometry y="66" width="270" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-119" value="装备和机务支援可保障量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9C5D;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-184">
-          <mxGeometry y="132" width="390" height="56" as="geometry" />
+          <mxGeometry y="132" width="270" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-121" value="群内支援响应时间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9C5D;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-184">
-          <mxGeometry y="198" width="390" height="56" as="geometry" />
+          <mxGeometry y="198" width="270" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-123" value="关键任务备用机场数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6E9C5D;strokeWidth=1.2;fontColor=#333333;fontSize=13;fontFamily=Noto Sans CJK SC;fontStyle=0;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-184">
-          <mxGeometry y="264" width="390" height="56" as="geometry" />
+          <mxGeometry y="264" width="270" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="yBQVF43ahswneeR6fSq2-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="yBQVF43ahswneeR6fSq2-184" source="yBQVF43ahswneeR6fSq2-119" target="yBQVF43ahswneeR6fSq2-119">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
