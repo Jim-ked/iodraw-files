@@ -507,7 +507,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-175" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3346" y="260" width="394" height="301" as="geometry" />
+          <mxGeometry x="2970" y="260" width="394" height="301" as="geometry" />
         </mxCell>
         <mxCell id="yBQVF43ahswneeR6fSq2-74" value="机务保障能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#83A94D;strokeColor=#83A94D;strokeWidth=1.2;fontColor=#FFFFFF;fontSize=16;fontFamily=Noto Sans CJK SC;fontStyle=1;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="yBQVF43ahswneeR6fSq2-175">
           <mxGeometry width="220" height="76" as="geometry" />
